@@ -16,4 +16,4 @@ case $emprandomCheck in
 esac
 salary=$(( $ratePerHour * $empHours ))
 echo $salary
-
+//trying to put comment
